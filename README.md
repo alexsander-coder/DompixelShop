@@ -12,9 +12,9 @@ O sistema tem a capacidade de:
 - Exibir detalhes de produtos
 - Excluir Produtos
 
-## Instruções para executar o projeto
+# Instruções para executar o projeto
 
-# Configuração do projeto
+## Configuração do projeto
 
 - O arquivo .env foi retirado do gitignore para facilitar a execução
 - crie uma tabela no MySQL chamada: laravel
