@@ -33,7 +33,6 @@ O sistema tem a capacidade de:
 # Inicie o servidor local
 
 - `php artisan serve`
---
 ## ROTA
 
 - products
