@@ -12,7 +12,7 @@ O sistema tem a capacidade de:
 - Exibir detalhes de produtos
 - Excluir Produtos
 
-# Configuração do projeto
+## Configuração do projeto
 
 - O arquivo .env foi retirado do gitignore para facilitar a execução
 - crie uma tabela no MySQL chamada: laravel
@@ -20,15 +20,15 @@ O sistema tem a capacidade de:
 - Após concluído acesse a pasta: cd DompixelShop
 - Dentro da pasta executar os seguintes comandos:
 
-# Instale as dependências do projeto
+## Instale as dependências do projeto
 
 - `composer install`
 
-# Execute as migrações do banco de dados
+## Execute as migrações do banco de dados
 
 - `php artisan migrate`
 
-# Inicie o servidor local
+## Inicie o servidor local
 
 - `php artisan serve`
 ## ROTA
