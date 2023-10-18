@@ -19,7 +19,7 @@ O sistema tem a capacidade de:
 - O arquivo .env foi retirado do gitignore para facilitar a execução
 - crie uma tabela no MySQL chamada: laravel
 - Clonar o repositório: [https://github.com/alexsander-coder/DompixelShop.git](https://github.com/alexsander-coder/DompixelShop.git)
-- Após concluído acesse a pasta: cd productRegistration
+- Após concluído acesse a pasta: cd DompixelShop
 - Dentro da pasta executar os seguintes comandos:
 
 # Instale as dependências do projeto
